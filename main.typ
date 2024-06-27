@@ -1,7 +1,5 @@
 #import "simplecv.typ": template, education_entry, work_entry, skill_entry 
 
-
-
 // Change the theme color of the cv.
 #let color = rgb("#00356b")
 // Change to your name.

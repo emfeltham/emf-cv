@@ -234,6 +234,8 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 = Posters and Oral Presentations
 
+*Eric Feltham*. "Cognizing social networks". #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
+
 *Eric Feltham*. "Cognizing social networks". #link("https://sn.ethz.ch/dualityat50.html")[Duality@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
 
 *Eric Feltham*. "Cognizing social networks". University of Iowa, Iowa City, IA, Nov. 2023

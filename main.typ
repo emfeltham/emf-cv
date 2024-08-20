@@ -52,7 +52,7 @@ description: [
 
 #education_entry("Statistics", "Yale University",
 degree_title: "M.A.,", end_date: "2018",
-description: [_en route_ to Ph.D.], location: "New Haven, CT")
+description: [], location: "New Haven, CT")
 
 #education_entry("Philosophy; B.A., Economics", "University of Massachusetts Amherst",
 degree_title: "B.A.,", end_date: "2013",
@@ -62,13 +62,14 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, causal inference statistical methods, mathematical sociology, social cognition, social theory, political sociology],
+  [Social networks, causal inference statistical methods, mathematical sociology, social cognition, social psychology, social theory, political sociology],
 )
 
 = Research experience
 
 #work_entry("Graduate Researcher", "Yale Institute for Network Science and Human Nature Lab, New Haven, CT", start_date: "2016", end_date: "2023", tasks: (
-  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure in over 80 villages in rural Honduras],
+  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure in 82 villages in rural Honduras],
+  [Developed sampling method for cognitive social structures research design],
   [Conducted fieldwork in rural Honduras to support data collection and analysis effort for thesis project],
   [Developed generalized difference-in-differences methodology to estimate the impact of large-scale political gatherings on the spread of COVID-19 in the USA],
 )
@@ -77,19 +78,16 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 #work_entry("Research Fellow", "Dr. Emily Erikson, Yale University, New Haven, CT", end_date: "2019", tasks: (
   [Analyzed historical social network data consisting of English economic manuscript writers from the 18th century],
   [Applied topic modeling to uncover trends in the economic literature over a roughly 200-year period],
-  [Research contributed to a book, published as #link("https://cup.columbia.edu/book/trade-and-nation/9780231184359")[_Trade and Nation_] (2021, Columbia UP)]
 )
 )
 
 #work_entry("Graduate Researcher", "Drs. James Evans, Michael Franklin, Joshua Tenenbaum, University of Chicago, Chicago, IL", end_date: "2018", tasks: (
   [Part of a team on a grant "Social MIND: Social Machine Intelligence for Novel Discovery"],
-  [Applied causal inference methods to reconstruct the the "ground truth" from simulation data from social scenarios where the data generating process is unknown]
 )
 )
 
 #work_entry("Research Assistant", "Levy and Harpaz-Rotem Labs, Yale University School of Medicine, New Haven, CT", start_date: "2014", end_date: "2016", tasks: (
   [Independently performed fear conditioning experiments with human participants in behavioral and MRI settings],
-  [Cleaned and analyzed behavioral data using MATLAB, and ACQKnowledge software],
   [Preprocessed and analyzed fMRI data using BrainVoyager software],
 )
 )
@@ -109,8 +107,6 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 
-Sanjeev Kumar and *Eric Feltham*. (Under Review at _Social Science & Medicine - Mental Health_). "Does Health Influence Risk Preference?"
-
 Emily Erikson and *Eric Feltham*. (2021). "Structure". In #link("https://www.e-elgar.com/shop/usd/research-handbook-on-analytical-sociology-9781789906844.html")[_Research Handbook on Analytical Sociology_]. Cheltenham, UK: Edward Elgar Publishing.
 
 Emily Erikson and *Eric Feltham*. (2020). "Historical Network Research". In _Oxford Handbook of Social Networks_. New York: Oxford UP. #link("https://doi.org/10.1093/oxfordhb/9780190251765.001.0001")
@@ -119,11 +115,12 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Social Networks in Mind".
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
+their social networks" (under review at _Nature Human Behaviour_).
 
 *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
 
-*Eric Feltham*, Nicholas Christakis, Babak Fotouhi. "The Networked Climate Game".
+*Eric Feltham* and Nicholas Christakis. "The Networked Climate Game".
 
 *Eric Feltham*. "Identity and Polarization".
 
@@ -135,9 +132,16 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 *Eric Feltham* and Nicholas Christakis. (2020). "Voting In The 2020 Primaries Didn’t Worsen The COVID-19 Pandemic". *FiveThirtyEight*.
 
-= Grants, honors, and awards
+= Honors and awards
 
 #work_entry(link("https://sociology.yale.edu/news/eric-martin-feltham-2024-winner-yale-sociology-departments-marvin-b-sussman-dissertation-prize")[Sussman Prize for best dissertation in the past two years], "Yale Department of Sociology, New Haven, CT", end_date: "2024", tasks: ())
+
+#work_entry("Commonwealth Honors College Scholar with Greatest Distinction", [University of Massachusetts Amherst, Amherst, MA], end_date: "2013", tasks: (
+  [Awarded based on thesis quality and GPA],
+)
+)
+
+= Grants
 
 #work_entry("National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", [Research Grant (R-01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], end_date: "2022", tasks: (
   [Award: \$3,226,809 (over 4 years)],
@@ -153,28 +157,23 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 )
 )
 
-#work_entry("U.S. Fulbright Research Semi-Finalist", [], end_date: "2016", tasks: (
-  [Proposal to research economic and social decision-making],
-)
-)
+// #work_entry("U.S. Fulbright Research Semi-Finalist", [], end_date: "2016", tasks: (
+//   [Proposal to research economic and social decision-making],
+// )
+// )
 
-#work_entry([#link("https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/index.html")[Summer School in Logic and Formal Epistemology]], [Carnegie Mellon University], end_date: "2015", tasks: (
-  [Admitted with full-funding to competitive NSF-funded program],
-  [Took advanced courses in topology, modal logic, and the applications of decision theory for formal epistemology],
-)
-)
+// #work_entry([#link("https://www.cmu.edu/dietrich/philosophy/undergraduate/summer-school/index.html")[Summer School in Logic and Formal Epistemology]], [Carnegie Mellon University], end_date: "2015", tasks: (
+//   [Admitted with full-funding to competitive NSF-funded program],
+//   [Took advanced courses in topology, modal logic, and the applications of decision theory for formal epistemology],
+// )
+// )
 
-#work_entry([#link("https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics")[Summer Institute for Training in Biostatistics]], [Emory University], end_date: "2014", tasks: (
-  [Admitted with full-funding to competitive NIH-funded program],
-  [Took introductory graduate level Biostatistics courses],
-  [Presented case studies based on statistical analysis],
-)
-)
-
-#work_entry("Commonwealth Honors College Scholar with Greatest Distinction", [], end_date: "2013", tasks: (
-  [Awarded based on thesis quality and GPA],
-)
-)
+// #work_entry([#link("https://www.nhlbi.nih.gov/grants-and-training/summer-institute-biostatistics")[Summer Institute for Training in Biostatistics]], [Emory University], end_date: "2014", tasks: (
+//   [Admitted with full-funding to competitive NIH-funded program],
+//   [Took introductory graduate level Biostatistics courses],
+//   [Presented case studies based on statistical analysis],
+// )
+// )
 
 = Software
 
@@ -232,7 +231,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 )
 )
 
-= Posters and Oral Presentations
+= Invited talks
 
 *Eric Feltham*. "Cognizing social networks". #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
 

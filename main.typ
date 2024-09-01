@@ -38,8 +38,12 @@
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
 = Employment
-#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "current", tasks: ()
+
+#work_entry("Postdoctoral Research Scientist", [Data Science Institute, Columbia University], start_date: "Sept. 2024", end_date: "current", tasks: ([Hosts: Drs. Peter Bearman and Caleb Miles],))
+
+#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024",
 )
+
 
 = Education
 
@@ -105,6 +109,9 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Publications
 
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
+their social networks" (under review at _Nature Human Behaviour_).
+
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 
 Emily Erikson and *Eric Feltham*. (2021). "Structure". In #link("https://www.e-elgar.com/shop/usd/research-handbook-on-analytical-sociology-9781789906844.html")[_Research Handbook on Analytical Sociology_]. Cheltenham, UK: Edward Elgar Publishing.
@@ -114,9 +121,6 @@ Emily Erikson and *Eric Feltham*. (2020). "Historical Network Research". In _Oxf
 Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, Robert H. Pietrzak, Steven Southwick, John H. Krystal, Ilan Harpaz-Rotem, Daniela Schiller. (2019). "Neural computations of threat in the aftermath of combat trauma". _Nature Neuroscience_ 22, 470–476. #link("https://doi.org/10.1038/s41593-018-0315-x")
 
 = Working papers
-
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
-their social networks" (under review at _Nature Human Behaviour_).
 
 *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
 
@@ -253,6 +257,8 @@ Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, I
 
 Karen Gao (Computer Science and Psychology, Yale College 2027)
 
+Ashley Oaks (Statistics and Data Science, PhD Student)
+
 Breanna Nguyen (Cognitive Science, Yale College 2025)
 
 Kaity Chandrika (Sociology, Yale College 2025)
@@ -306,10 +312,10 @@ Data Analysis, Probability Theory, Theory of Statistics, Multivariate Statistica
 
 = References
 
-Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
++ Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
 
-Dr. Emily Erikson, Professor of Sociology and (by courtesy) Management, Yale University
++ Dr. Emily Erikson, Professor of Sociology and (by courtesy) Management, Yale University
 
-Dr. Laura Forastiere, Assistant Professor of Biostatistics, Yale School of Public Health, Yale University
++ Dr. Laura Forastiere, Associate Professor of Biostatistics, Yale School of Public Health, Yale University
 
-Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University
++ Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University

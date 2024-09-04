@@ -122,9 +122,15 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
+*Eric Feltham* and Nicholas Christakis. "Expecting Homophily".
+
+*Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling cognitive social structures".
+
+*Eric Feltham*. "The cognition of network relations and categories".
 
 *Eric Feltham* and Nicholas Christakis. "The Networked Climate Game".
+
+*Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
 
 *Eric Feltham*. "Identity and Polarization".
 

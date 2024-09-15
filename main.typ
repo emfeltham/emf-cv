@@ -39,7 +39,7 @@
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
 = Employment
 
-#work_entry("Postdoctoral Research Scientist", [Data Science Institute, Columbia University], start_date: "Sept. 2024", end_date: "current", tasks: ([Hosts: Drs. Peter Bearman and Caleb Miles],))
+#work_entry("Postdoctoral Research Scholar", [Data Science Institute, Columbia University], start_date: "Sept. 2024", end_date: "", tasks: ([Hosts: Drs. Peter Bearman and Caleb Miles],))
 
 #work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024",
 )
@@ -66,7 +66,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, causal inference statistical methods, mathematical sociology, social cognition, social psychology, social theory, political sociology],
+  [Social networks, causal inference statistical methods, mathematical sociology, computational social science, social cognition, social psychology, social theory, political sociology],
 )
 
 = Research experience
@@ -124,9 +124,9 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "Expecting Homophily".
 
-*Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling cognitive social structures".
+*Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures".
 
-*Eric Feltham*. "The cognition of network relations and categories".
+*Eric Feltham*. "The Cognition of Network Relations and Categories".
 
 *Eric Feltham* and Nicholas Christakis. "The Networked Climate Game".
 
@@ -135,6 +135,11 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 *Eric Feltham*. "Identity and Polarization".
 
 Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
+
+= Book
+
+"Cognizing social networks" (working title). Manuscript in preparation.
+- Book proposal under review
 
 = Other writing
 
@@ -287,7 +292,6 @@ Reviewer, *Yale Undergraduate Research Journal*
 // Ratings won't be displayed in this template.
 #skill_entry("Languages",
   (
-    "Git",
     "Julia",
     "R",
     "MATLAB",
@@ -319,9 +323,12 @@ Data Analysis, Probability Theory, Theory of Statistics, Multivariate Statistica
 = References
 
 + Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
+  - nicholas.christakis\@yale.edu
 
 + Dr. Emily Erikson, Professor of Sociology and (by courtesy) Management, Yale University
+  - emily.erikson\@yale.edu
 
 + Dr. Laura Forastiere, Associate Professor of Biostatistics, Yale School of Public Health, Yale University
+  - laura.forastiere\@yale.edu
 
-+ Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University
+// + Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University

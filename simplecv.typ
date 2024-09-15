@@ -98,7 +98,7 @@
 
 // Set name and contact data and format headings
 #let template(name, contact_data, color, doc) = {
-  set page(margin: (x: 1.5cm, y: 0.5cm))
+  set page(margin: (x: 0.75in, y: 0.75in))
   set text(11pt)
   set par(justify: true, leading: par_space)
   align(center)[

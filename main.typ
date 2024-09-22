@@ -69,44 +69,6 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
   [Social networks, causal inference statistical methods, mathematical sociology, computational social science, social cognition, social psychology, social theory, political sociology],
 )
 
-= Research experience
-
-#work_entry("Graduate Researcher", "Yale Institute for Network Science and Human Nature Lab, New Haven, CT", start_date: "2016", end_date: "2023", tasks: (
-  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure in 82 villages in rural Honduras],
-  [Developed sampling method for cognitive social structures research design],
-  [Conducted fieldwork in rural Honduras to support data collection and analysis effort for thesis project],
-  [Developed generalized difference-in-differences methodology to estimate the impact of large-scale political gatherings on the spread of COVID-19 in the USA],
-)
-)
-
-#work_entry("Research Fellow", "Dr. Emily Erikson, Yale University, New Haven, CT", end_date: "2019", tasks: (
-  [Analyzed historical social network data consisting of English economic manuscript writers from the 18th century],
-  [Applied topic modeling to uncover trends in the economic literature over a roughly 200-year period],
-)
-)
-
-#work_entry("Graduate Researcher", "Drs. James Evans, Michael Franklin, Joshua Tenenbaum, University of Chicago, Chicago, IL", end_date: "2018", tasks: (
-  [Part of a team on a grant "Social MIND: Social Machine Intelligence for Novel Discovery"],
-)
-)
-
-#work_entry("Research Assistant", "Levy and Harpaz-Rotem Labs, Yale University School of Medicine, New Haven, CT", start_date: "2014", end_date: "2016", tasks: (
-  [Independently performed fear conditioning experiments with human participants in behavioral and MRI settings],
-  [Preprocessed and analyzed fMRI data using BrainVoyager software],
-)
-)
-
-#work_entry("Research Assistant", "Schiller Affective Neuroscience Lab, Mount Sinai Icahn School of Medicine, New York, NY", end_date: "2014", tasks: (
-  [Independently performed human subject trials investigating the effects of a pharmacological agent on memory formation and persistence],
-)
-)
-
-#work_entry("Undergraduate Honors Thesis", "University of Massachusetts Amherst Commonwealth Honors College, Amherst, MA", end_date: "2013", tasks: (
-  [Title: “Unconscious Attention? Inattentional Consciousness? Examining the Relationship Between Attention and Phenomenal Consciousness”],
-  [Committee: Drs. Joseph Levine and Louise Anthony]
-)
-)
-
 = Publications
 
 *Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
@@ -189,6 +151,44 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 //   [Presented case studies based on statistical analysis],
 // )
 // )
+
+= Research experience
+
+#work_entry("Graduate Researcher", "Yale Institute for Network Science and Human Nature Lab, New Haven, CT", start_date: "2016", end_date: "2023", tasks: (
+  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure in 82 villages in rural Honduras],
+  [Developed sampling method for cognitive social structures research design],
+  [Conducted fieldwork in rural Honduras to support data collection and analysis effort for thesis project],
+  [Developed generalized difference-in-differences methodology to estimate the impact of large-scale political gatherings on the spread of COVID-19 in the USA],
+)
+)
+
+#work_entry("Research Fellow", "Dr. Emily Erikson, Yale University, New Haven, CT", end_date: "2019", tasks: (
+  [Analyzed historical social network data consisting of English economic manuscript writers from the 18th century],
+  [Applied topic modeling to uncover trends in the economic literature over a roughly 200-year period],
+)
+)
+
+#work_entry("Graduate Researcher", "Drs. James Evans, Michael Franklin, Joshua Tenenbaum, University of Chicago, Chicago, IL", end_date: "2018", tasks: (
+  [Part of a team on a grant "Social MIND: Social Machine Intelligence for Novel Discovery"],
+)
+)
+
+#work_entry("Research Assistant", "Levy and Harpaz-Rotem Labs, Yale University School of Medicine, New Haven, CT", start_date: "2014", end_date: "2016", tasks: (
+  [Independently performed fear conditioning experiments with human participants in behavioral and MRI settings],
+  [Preprocessed and analyzed fMRI data using BrainVoyager software],
+)
+)
+
+#work_entry("Research Assistant", "Schiller Affective Neuroscience Lab, Mount Sinai Icahn School of Medicine, New York, NY", end_date: "2014", tasks: (
+  [Independently performed human subject trials investigating the effects of a pharmacological agent on memory formation and persistence],
+)
+)
+
+#work_entry("Undergraduate Honors Thesis", "University of Massachusetts Amherst Commonwealth Honors College, Amherst, MA", end_date: "2013", tasks: (
+  [Title: “Unconscious Attention? Inattentional Consciousness? Examining the Relationship Between Attention and Phenomenal Consciousness”],
+  [Committee: Drs. Joseph Levine and Louise Anthony]
+)
+)
 
 = Software
 

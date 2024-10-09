@@ -66,13 +66,14 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, causal inference statistical methods, mathematical sociology, computational social science, social cognition, social psychology, social theory, political sociology],
+  [Social theory, social networks, mathematical sociology, computational social science, social cognition, social psychology, political sociology],
+  //causal inference statistical methods, 
 )
 
 = Publications
 
 *Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
-their social networks" (under review at _Nature Human Behaviour_).
+their social networks" (revise and resubmit at _Nature Human Behaviour_).
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 

@@ -251,7 +251,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 *Eric Feltham*. "Cognizing social networks". #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
 
-*Eric Feltham*. "Cognizing social networks". #link("https://sn.ethz.ch/dualityat50.html")[Duality@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
+*Eric Feltham*. "Cognizing social networks". #link("https://sn.ethz.ch/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
 
 *Eric Feltham*. "Cognizing social networks". University of Iowa, Iowa City, IA, Nov. 2023
 
@@ -290,17 +290,9 @@ Reviewer, *Policy Analysis* (2022 Impact Factor: 2.2)
 Reviewer, *Yale Undergraduate Research Journal*
 
 = Skills
-// Ratings won't be displayed in this template.
-#skill_entry("Languages",
-  (
-    "Julia",
-    "R",
-    "MATLAB",
-    "Python",
-    "Spanish (basic)",
-    "French (basic)"
-  )
-)
+
+== Languages
+Julia, R, MATLAB, Python, Spanish (basic), French (basic)
 
 == Selected coursework
 
@@ -332,4 +324,5 @@ Data Analysis, Probability Theory, Theory of Statistics, Multivariate Statistica
 + Dr. Laura Forastiere, Associate Professor of Biostatistics, Yale School of Public Health, Yale University
   - laura.forastiere\@yale.edu
 
-// + Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University
++ Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University
+  - ifat.levy\@yale.edu

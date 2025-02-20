@@ -72,8 +72,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Publications
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Humans possess systematically distorted cognitive representations of
-their social networks" (revise and resubmit at _Nature Human Behaviour_).
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages" (conditionally accepted at _Nature Human Behaviour_).
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 

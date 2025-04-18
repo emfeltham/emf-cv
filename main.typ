@@ -66,13 +66,13 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social theory, social networks, mathematical sociology, computational social science, social cognition, social psychology, political sociology],
+  [Social theory, social networks, computational social science, mathematical sociology, social cognition, social psychology, political sociology, causal inference],
   //causal inference statistical methods, 
 )
 
 = Publications
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages" (conditionally accepted at _Nature Human Behaviour_).
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages" (in press at _Nature Human Behaviour_).
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 
@@ -84,19 +84,19 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Expecting Homophily".
+*Eric Feltham* and Nicholas Christakis. "Expecting Homophily". (manuscript in prep.)
 
-*Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures".
+*Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures". (research phase)
 
-*Eric Feltham*. "The Cognition of Network Relations and Categories".
+*Eric Feltham*. "The Cognition of Network Relations and Categories". (research phase)
 
-*Eric Feltham* and Nicholas Christakis. "The Networked Climate Game".
+*Eric Feltham* and Nicholas Christakis. "The Networked Climate Game". (data collection phase)
 
-*Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
+*Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras". (research phase)
 
-*Eric Feltham*. "Identity and Polarization".
+*Eric Feltham*. "Identity and Polarization". (manuscript in prep.)
 
-Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
+Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (data collection phase)
 
 = Book
 
@@ -247,6 +247,10 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 )
 
 = Invited talks
+
+*Eric Feltham*. "Cognizing social networks". #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Institute for Analytical Sociology, Norrköping, Sweden, July 2025
+
+*Eric Feltham*. "Expecting Homophily". #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], International Network of Analytical Sociology, New York, New York, June 2025
 
 *Eric Feltham*. "Cognizing social networks". #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
 

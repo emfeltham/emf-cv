@@ -50,8 +50,9 @@
 #education_entry("Sociology", "Yale University (with Distinction)",
 degree_title: "Ph.D.,", end_date: "May 2023",
 description: [
-  Dissertation title: "Cognizing Social Networks" \
-  Dissertation committee: Drs. Nicholas Christakis (chair), Emily Erikson, Laura Forastiere, Ifat Levy
+  Dissertation: "Cognizing Social Networks" \
+  Committee: Drs. Nicholas Christakis (chair), Emily Erikson, Laura Forastiere, Ifat Levy \
+  Winner of the 2024 Marvin B. Sussman Dissertation Prize from Yale University
 ], location: "New Haven, CT")
 
 #education_entry("Statistics", "Yale University",
@@ -72,7 +73,8 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Publications
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages" (in press at _Nature Human Behaviour_).
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ (in press).
+- Selected for a "Research Briefing" feature by _Nature Human Behaviour_.
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 
@@ -104,6 +106,8 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 - Book proposal under review
 
 = Other writing
+
+“Cognitive representations of social networks in isolated villages.” *Nature Human Behaviour Research Briefing* (in press). (Invited contribution by Nature Human Behaviour)
 
 *Eric Feltham* and Nicholas Christakis. (2023). "Rapid research with a pandemic bearing down: Studying the impact of mass gatherings on the course of COVID-19". *Springer Nature Communities*. (Invited contribution to "Behind the Paper" series for the Springer Nature Social Sciences online community.)
 
@@ -248,17 +252,15 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 = Invited talks
 
-*Eric Feltham*. "Cognizing social networks". #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Institute for Analytical Sociology, Norrköping, Sweden, July 2025
+*Eric Feltham*. "Cognizing social networks"
+- #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Institute for Analytical Sociology, Norrköping, Sweden, July 2025
+- #link("https://sociology.yale.edu")[Department of Sociology], Yale University, May 2025 (Sussman Award Lecture)
+- #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
+- #link("https://sn.ethz.ch/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
+- University of Iowa, Iowa City, IA, Nov. 2023
+- Implementation and Dissemination Science Workshop. Copán, Honduras, June 2023
 
 *Eric Feltham*. "Expecting Homophily". #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], International Network of Analytical Sociology, New York, New York, June 2025
-
-*Eric Feltham*. "Cognizing social networks". #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
-
-*Eric Feltham*. "Cognizing social networks". #link("https://sn.ethz.ch/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
-
-*Eric Feltham*. "Cognizing social networks". University of Iowa, Iowa City, IA, Nov. 2023
-
-*Eric Feltham*. "Cognizing social networks". Implementation and Dissemination Science Workshop. Copán, Honduras, June 2023
 
 *Eric Feltham*. "Modeling the Effect of Identity on Polarization". Center for Empirical Research on Stratification and Inequality, Yale University, New Haven, CT, Jan. 2019
 
@@ -284,13 +286,15 @@ Kayla Morgan (Cognitive Science, Yale College 2024)
 
 Benjamin Snyder (Economics, Yale College 2022)
 
-= Professional service
+= Service
 
-Reviewer, *Risk Analysis* (2022 Impact Factor: 3.8)
+== Ad hoc reviews
 
-Reviewer, *Policy Analysis* (2022 Impact Factor: 2.2)
-
-Reviewer, *Yale Undergraduate Research Journal*
+- Proceedings of the National Academy of Sciences of the United States of America
+- Group Processes & Intergroup Relations
+- Risk Analysis
+- Policy Analysis
+- Yale Undergraduate Research Journal
 
 = Skills
 
@@ -317,6 +321,9 @@ Data Analysis, Probability Theory, Theory of Statistics, Multivariate Statistica
 )
 
 = References
+
++ Dr. Peter Bearman, Cole Professor of Social Science in the Department of Sociology, Columbia University
+  - psb17\@columbia.edu
 
 + Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
   - nicholas.christakis\@yale.edu

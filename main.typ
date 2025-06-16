@@ -39,11 +39,10 @@
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
 = Employment
 
-#work_entry("Postdoctoral Research Scholar", [Data Science Institute, Columbia University], start_date: "Sept. 2024", end_date: "", tasks: ([Hosts: Drs. Peter Bearman and Caleb Miles],))
+#work_entry("Postdoctoral Research Scholar", [Data Science Institute, Columbia University], start_date: "Sept. 2024", end_date: "", tasks: ())
 
 #work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024",
 )
-
 
 = Education
 
@@ -73,10 +72,11 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Publications
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ (in press).
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ (2025). #link("https://doi.org/10.1038/s41562-025-02221-6")
 - Selected for a "Research Briefing" feature by _Nature Human Behaviour_.
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
+- Featured in _FiveThirtyEight_.
 
 Emily Erikson and *Eric Feltham*. (2021). "Structure". In #link("https://www.e-elgar.com/shop/usd/research-handbook-on-analytical-sociology-9781789906844.html")[_Research Handbook on Analytical Sociology_]. Cheltenham, UK: Edward Elgar Publishing.
 
@@ -86,11 +86,11 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
+*Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
+
 *Eric Feltham* and Nicholas Christakis. "Expecting Homophily". (manuscript in prep.)
 
 *Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures". (research phase)
-
-*Eric Feltham*. "The Cognition of Network Relations and Categories". (research phase)
 
 *Eric Feltham* and Nicholas Christakis. "The Networked Climate Game". (data collection phase)
 

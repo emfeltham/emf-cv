@@ -226,7 +226,7 @@ Megha Chawla et al. "Cortical thickness and volume of the right posterior pariet
 - Performs non-parametric generalized differences-in-differences estimation, with covariate matching
 
 #link("https://github.com/emfeltham/Margins.jl")[Margins.jl] (sole author)
-- Computes marginal effects for linear models
+- Computes marginal effects for Computes average marginal effects for generalized linear models and generalized linear mixed models
 - Designed for flexibility in defining custom inverse link functions and derivatives
 
 #link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl] (sole author)

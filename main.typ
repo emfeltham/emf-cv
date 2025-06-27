@@ -240,45 +240,16 @@ Megha Chawla et al. "Cortical thickness and volume of the right posterior pariet
 
 = Teaching
 
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Jan. 2023", end_date: "May 2023", tasks: (
-  [Course: Sociology of Crime and Deviance SOCY 141b],
-)
-)
+*Teaching Fellow*, Yale College, Yale University (2018–2023):
 
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Sep. 2022", end_date: "Dec. 2022", tasks: (
-  [Course: Health of the Public SOCY 126a],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Jan. 2022", end_date: "May 2022", tasks: (
-  [Course: Topics in Contemporary Social Theory SOCY 152b],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Sep. 2021", end_date: "Dec. 2021", tasks: (
-  [Course: Sex and Gender in Society SOCY 134a],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Jan. 2020", end_date: "May 2020", tasks: (
-  [Course: Health of the Public SOCY 126b],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Sep. 2019", end_date: "Dec. 2019", tasks: (
-  [Course: Foundations of Modern Social Theory SOCY 151a],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Jan. 2019", end_date: "May 2019", tasks: (
-  [Course: Social Networks and Society SOCY 167b],
-)
-)
-
-#work_entry([Yale College, New Haven, CT], "Teaching Fellow", start_date: "Sep. 2018", end_date: "Dec. 2018", tasks: (
-  [Course: Computers, Networks and Society SOCY 133a],
-)
-)
+- SOCY 133a, Computers, Networks and Society (Fall 2018)
+- SOCY 167b, Social Networks and Society (Spring 2019)
+- SOCY 151a, Foundations of Modern Social Theory (Fall 2019)
+- SOCY 126b, Health of the Public (Spring 2020)
+- SOCY 134a, Sex and Gender in Society (Fall 2021)
+- SOCY 152b, Topics in Contemporary Social Theory (Spring 2022)
+- SOCY 126a, Health of the Public (Fall 2022)
+- SOCY 141b, Sociology of Crime and Deviance (Spring 2023)
 
 = Mentoring
 

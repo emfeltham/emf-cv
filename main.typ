@@ -115,29 +115,34 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 = Invited Talks
 
-*Eric Feltham*. "Cognizing social networks"
+*"Cognizing social networks"*
 - Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
 - Department of Sociology, Yale University (Sussman Award Lecture), May 2025
+- Department of Sociology, University of Iowa (Social Networks Workshop), Iowa City, IA, November 2023
 
-*Eric Feltham*. "Modeling the Effect of Identity on Polarization" Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
+*"Modeling the Effect of Identity on Polarization"*
+- Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
 
-*Eric Feltham*. “Experiments on Observational Learning”, Yale Institute for Network Science, August 2018
+*“Experiments on Observational Learning”*
+- Yale Institute for Network Science, August 2018
 
-*Eric Feltham*. "Using Tools from Causal Inference to Reconstruct Simulated Social Data"
+*"Using Tools from Causal Inference to Reconstruct Simulated Social Data"*
 - DARPA Workshop, Alexandria, VA, 2018
 
 = Conference Presentations
 
-*Eric Feltham*. "Cognizing social networks"
-- International Conference on Computational Social Science, Norrköping, Sweden, July 2025
-- American Sociological Association (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
+*"Cognizing social networks"*
+- #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
+- #link("https://www.asanet.org/annual-meeting/")[American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
+- #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETZ Zürich, Ascona, Switzerland, April 2024
 - Implementation and Dissemination Science Workshop, Copán, Honduras, June 2023
 
-*Eric Feltham*. "Expecting Homophily"
-- Annual Conference of the International Network of Analytical Sociology, Columbia University, June 2025
+*"Expecting Homophily"*
+- #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], Columbia University, June 2025
 
-Megha Chawla et al. "Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate"
-- Society for Neuroscience, San Diego, 2018
+Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. *"Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in
+healthy adults"*
+- Society for Neuroscience, San Diego, CA, 2018
 
 = Honors and awards
 
@@ -226,8 +231,7 @@ Megha Chawla et al. "Cortical thickness and volume of the right posterior pariet
 - Performs non-parametric generalized differences-in-differences estimation, with covariate matching
 
 #link("https://github.com/emfeltham/Margins.jl")[Margins.jl] (sole author)
-- Computes marginal effects for Computes average marginal effects for generalized linear models and generalized linear mixed models
-- Designed for flexibility in defining custom inverse link functions and derivatives
+- Computes marginal effects for generalized linear models and mixed models
 
 #link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl] (sole author)
 - Implements a sampling procedure for "cognitive social structures" data collection
@@ -253,19 +257,13 @@ Megha Chawla et al. "Cortical thickness and volume of the right posterior pariet
 
 = Mentoring
 
-Karen Gao (Computer Science and Psychology, Yale College 2027)
-
-Ashley Oaks (Statistics and Data Science, PhD Student)
-
-Breanna Nguyen (Cognitive Science, Yale College 2025)
-
-Kaity Chandrika (Sociology, Yale College 2025)
-
-Justice Harasha (Economics and Mathematics, Yale College 2024)
-
-Kayla Morgan (Cognitive Science, Yale College 2024)
-
-Benjamin Snyder (Economics, Yale College 2022)
+- Karen Gao (Computer Science & Psychology, Yale College 2027)
+- Ashley Oaks (Statistics & Data Science, PhD)
+- Breanna Nguyen (Cognitive Science, Yale College 2025)
+- Kaity Chandrika (Sociology, Yale College 2025)
+- Justice Harasha (Economics & Mathematics, Yale College 2024)
+- Kayla Morgan (Cognitive Science, Yale College 2024)
+- Benjamin Snyder (Economics, Yale College 2022)
 
 = Service
 

@@ -107,7 +107,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 = Other writing
 
-“Cognitive representations of social networks in isolated villages.” *Nature Human Behaviour Research Briefing* (in press). (Invited contribution by Nature Human Behaviour)
+"Social network cognition among isolated villagers reveals distinct patterns of bias" *Nature Human Behaviour Research Briefing* (June 20205). (Invited contribution by Nature Human Behaviour)
 
 *Eric Feltham* and Nicholas Christakis. (2023). "Rapid research with a pandemic bearing down: Studying the impact of mass gatherings on the course of COVID-19". *Springer Nature Communities*. (Invited contribution to "Behind the Paper" series for the Springer Nature Social Sciences online community.)
 
@@ -134,7 +134,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 *"Cognizing social networks"*
 - #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
 - #link("https://www.asanet.org/annual-meeting/")[American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
-- #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETZ Zürich, Ascona, Switzerland, April 2024
+- #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
 - Implementation and Dissemination Science Workshop, Copán, Honduras, June 2023
 
 *"Expecting Homophily"*

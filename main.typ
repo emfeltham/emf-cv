@@ -111,7 +111,33 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 *Eric Feltham* and Nicholas Christakis. (2023). "Rapid research with a pandemic bearing down: Studying the impact of mass gatherings on the course of COVID-19". *Springer Nature Communities*. (Invited contribution to "Behind the Paper" series for the Springer Nature Social Sciences online community.)
 
-*Eric Feltham* and Nicholas Christakis. (2020). "Voting In The 2020 Primaries Didn’t Worsen The COVID-19 Pandemic". *FiveThirtyEight*.
+*Eric Feltham* and Nicholas Christakis. (2020). "Voting In The 2020 Primaries Didn't Worsen The COVID-19 Pandemic". *FiveThirtyEight*.
+
+= Invited Talks
+
+*Eric Feltham*. "Cognizing social networks"
+- Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
+- Department of Sociology, Yale University (Sussman Award Lecture), May 2025
+
+*Eric Feltham*. "Modeling the Effect of Identity on Polarization" Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
+
+*Eric Feltham*. “Experiments on Observational Learning”, Yale Institute for Network Science, August 2018
+
+*Eric Feltham*. "Using Tools from Causal Inference to Reconstruct Simulated Social Data"
+- DARPA Workshop, Alexandria, VA, 2018
+
+= Conference Presentations
+
+*Eric Feltham*. "Cognizing social networks"
+- International Conference on Computational Social Science, Norrköping, Sweden, July 2025
+- American Sociological Association (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
+- Implementation and Dissemination Science Workshop, Copán, Honduras, June 2023
+
+*Eric Feltham*. "Expecting Homophily"
+- Annual Conference of the International Network of Analytical Sociology, Columbia University, June 2025
+
+Megha Chawla et al. "Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate"
+- Society for Neuroscience, San Diego, 2018
 
 = Honors and awards
 
@@ -199,6 +225,10 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 #link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl] (sole author)
 - Performs non-parametric generalized differences-in-differences estimation, with covariate matching
 
+#link("https://github.com/emfeltham/Margins.jl")[Margins.jl] (sole author)
+- Computes marginal effects for linear models
+- Designed for flexibility in defining custom inverse link functions and derivatives
+
 #link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl] (sole author)
 - Implements a sampling procedure for "cognitive social structures" data collection
 
@@ -250,26 +280,6 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 )
 )
 
-= Invited talks
-
-*Eric Feltham*. "Cognizing social networks"
-- #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Institute for Analytical Sociology, Norrköping, Sweden, July 2025
-- #link("https://sociology.yale.edu")[Department of Sociology], Yale University, May 2025 (Sussman Award Lecture)
-- #link("https://www.asanet.org/annual-meeting/")[Mathematical and Computational Methods in Social Psychology (Co-sponsored by Sections on Social Psychology and Mathematical Sociology)], American Sociological Association, Montréal, Québec, August 2024
-- #link("https://sn.ethz.ch/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
-- University of Iowa, Iowa City, IA, Nov. 2023
-- Implementation and Dissemination Science Workshop. Copán, Honduras, June 2023
-
-*Eric Feltham*. "Expecting Homophily". #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], International Network of Analytical Sociology, New York, New York, June 2025
-
-*Eric Feltham*. "Modeling the Effect of Identity on Polarization". Center for Empirical Research on Stratification and Inequality, Yale University, New Haven, CT, Jan. 2019
-
-*Eric Feltham*. “Experiments on Observational Learning”. Yale Institute for Network Science, New Haven, CT, Aug. 2018
-
-Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. "Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in healthy adults". Society for Neuroscience, San Diego, CA, 2018
-
-*Eric Feltham*. "Using Tools from Causal Inference to Reconstruct Simulated Social Data". Defense Advanced Research Projects Agency, Alexandria, VA, 2018
-
 = Mentoring
 
 Karen Gao (Computer Science and Psychology, Yale College 2027)
@@ -303,7 +313,7 @@ Julia, R, MATLAB, Python, Spanish (basic), French (basic)
 
 == Selected coursework
 
-Data Analysis, Probability Theory, Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochastic Processes, Computational Tools for Data Science, Research Design & Causal Inference, Social Network Analysis, Research Topics in Human Nature and Social Networks, Topics in Biosocial Science, The Microeconomics of Coordination and Conflict
+Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochastic Processes, Computational Tools for Data Science, Research Design & Causal Inference, Social Network Analysis, Topics in Biosocial Science, The Microeconomics of Coordination and Conflict
 
 = Advocacy
 

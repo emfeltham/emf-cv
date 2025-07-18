@@ -270,9 +270,10 @@ healthy adults"*
 == Ad hoc reviews
 
 - Proceedings of the National Academy of Sciences of the United States of America
-- Group Processes & Intergroup Relations
 - Risk Analysis
 - Policy Analysis
+- Group Processes & Intergroup Relations
+- Rationality and Society
 - Yale Undergraduate Research Journal
 
 = Skills

@@ -73,7 +73,8 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 = Publications
 
 *Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ (2025). #link("https://doi.org/10.1038/s41562-025-02221-6")
-- Selected for a "Research Briefing" feature by _Nature Human Behaviour_.
+- Selected for a "Research Briefing" feature by _Nature Human Behaviour_. #link("https://doi.org/10.1038/s41562-025-02222-5")
+- Featured in Phys.org (#link("https://phys.org/news/2025-06-biases-people-mentally-social-community.html")["Biases shape how people mentally represent social ties in their community, study suggests"], June 2025)
 
 *Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
 - Featured in _FiveThirtyEight_.

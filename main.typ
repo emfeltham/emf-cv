@@ -108,7 +108,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 = Other writing
 
-"Social network cognition among isolated villagers reveals distinct patterns of bias" *Nature Human Behaviour Research Briefing* (June 20205). (Invited contribution by Nature Human Behaviour)
+"Social network cognition among isolated villagers reveals distinct patterns of bias" *Nature Human Behaviour Research Briefing* (June 2025). (Invited contribution by Nature Human Behaviour)
 
 *Eric Feltham* and Nicholas Christakis. (2023). "Rapid research with a pandemic bearing down: Studying the impact of mass gatherings on the course of COVID-19". *Springer Nature Communities*. (Invited contribution to "Behind the Paper" series for the Springer Nature Social Sciences online community.)
 

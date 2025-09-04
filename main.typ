@@ -87,9 +87,13 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
+*Eric Feltham* and Nicholas Christakis. "Expecting Homophily". (submission stage, available upon request)
 
-*Eric Feltham* and Nicholas Christakis. "Expecting Homophily". (manuscript in prep.)
+*Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep, available upon request)
+
+*Eric Feltham*. "FormulaCompiler.jl: A Unified Typed Compilation Framework for Statistical Formulas" (manuscript in prep, available upon request)
+
+*Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
 *Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures". (research phase)
 
@@ -97,7 +101,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras". (research phase)
 
-*Eric Feltham*. "Identity and Polarization". (manuscript in prep.)
+// *Eric Feltham*. "Identity and Polarization". (manuscript in prep.)
 
 Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (data collection phase)
 

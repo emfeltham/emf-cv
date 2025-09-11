@@ -87,13 +87,15 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Expecting Homophily". (submission stage, available upon request)
-
-*Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep, available upon request)
-
-*Eric Feltham*. "FormulaCompiler.jl: A Unified Typed Compilation Framework for Statistical Formulas" (manuscript in prep, available upon request)
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". (submission stage, available upon request)
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
+
+*Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep)
+
+*Eric Feltham*. "FormulaCompiler.jl: A Unified Typed Compilation Framework for Statistical Formulas" (manuscript in prep)
+
+*Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (research phase)
 
 *Eric Feltham*, Nicholas Christakis, and Laura Forastiere. "Sampling Cognitive Social Structures". (research phase)
 
@@ -235,17 +237,20 @@ healthy adults"*
 #link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl] (sole author)
 - Performs non-parametric generalized differences-in-differences estimation, with covariate matching
 
+#link("https://github.com/emfeltham/FormulaCompiler.jl")[FormulaCompiler.jl] (sole author)
+- Provides a unified, typed compilation framework for statistical model formulas in Julia
+
 #link("https://github.com/emfeltham/Margins.jl")[Margins.jl] (sole author)
 - Computes marginal effects for generalized linear models and mixed models
 
 #link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl] (sole author)
 - Implements a sampling procedure for "cognitive social structures" data collection
 
-#link("https://github.com/emfeltham/Typst.jl")[Typst.jl] (sole author)
-- Implements an interface from the Julia language to the mark-up language Typst for academic writing
+// #link("https://github.com/emfeltham/Typst.jl")[Typst.jl] (sole author)
+// - Implements an interface from the Julia language to the mark-up language Typst for academic writing
 
-#link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl] (contributor)
-- Contributed functions to process network data
+// #link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl] (contributor)
+// - Contributed functions to process network data
 
 = Teaching
 
@@ -290,18 +295,18 @@ Julia, R, MATLAB, Python, Spanish (basic), French (basic)
 
 Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochastic Processes, Computational Tools for Data Science, Research Design & Causal Inference, Social Network Analysis, Topics in Biosocial Science, The Microeconomics of Coordination and Conflict
 
-= Advocacy
+= Leadership & Service
 
 #work_entry("Campaign Coordinator", "Students for a Just and Stable Future, Boston, MA", start_date: "2010", end_date: "2011", tasks: (
-  [Spoke at public events to represent the organization],
-  [Coordinated a campaign with community members and college students from across Massachusetts],
-  [Worked on climate policy for MA state legislation],
+  [Represented the organization at public events],
+  [Built partnerships with community leaders and students across Massachusetts],
+  [Contributed to climate policy development for MA state legislation],
 )
 )
 
 #work_entry("Team Leader", "Better Future Project, Boston, MA", start_date: "June 2010", end_date: "Aug. 2011", tasks: (
-  [Led a team of four members and coordinated their roles relating to media, events, and housing],
-  [Organized events discussing the impacts of economic and environmental policy]
+  [Led and coordinated a four-member team across media, events, and housing],
+  [Organized public events on the economic and environmental impacts of policy],
 )
 )
 

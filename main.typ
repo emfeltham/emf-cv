@@ -10,7 +10,7 @@
   (
     "service": "email",
     "display": "eric.feltham@aya.yale.edu",
-    "link": "mailto://eric.feltham@aya.yale.edu"
+    "link": "mailto:eric.feltham@aya.yale.edu"
   ),
   (
     "service": "orcid",
@@ -66,17 +66,16 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social theory, social networks, computational social science, mathematical sociology, social cognition, social psychology, political sociology, causal inference],
-  //causal inference statistical methods, 
+  [Social networks, social cognition, computational social science, causal inference, mathematical sociology, social theory, political sociology],
 )
 
 = Publications
 
-*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ (2025). #link("https://doi.org/10.1038/s41562-025-02221-6")
+*Eric Feltham*, Laura Forastiere, and Nicholas Christakis. "Cognitive representations of social networks in isolated villages". _Nature Human Behaviour_ 9, 1737–1753 (2025). #link("https://doi.org/10.1038/s41562-025-02221-6")
 - Selected for a "Research Briefing" feature by _Nature Human Behaviour_. #link("https://doi.org/10.1038/s41562-025-02222-5")
 - Featured in Phys.org (#link("https://phys.org/news/2025-06-biases-people-mentally-social-community.html")["Biases shape how people mentally represent social ties in their community, study suggests"], June 2025)
 
-*Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. (2023). "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behavior_. #link("https://doi.org/10.1038/s41562-023-01654-1")
+*Eric Feltham*, Laura Forastiere, Marcus Alexander, Nicholas Christakis. "Mass gatherings for political expression had no discernible association with the local course of the COVID-19 pandemic in the USA in 2020 and 2021". _Nature Human Behaviour_ 7, 1708–1728 (2023). #link("https://doi.org/10.1038/s41562-023-01654-1")
 - Featured in _FiveThirtyEight_.
 
 Emily Erikson and *Eric Feltham*. (2021). "Structure". In #link("https://www.e-elgar.com/shop/usd/research-handbook-on-analytical-sociology-9781789906844.html")[_Research Handbook on Analytical Sociology_]. Cheltenham, UK: Edward Elgar Publishing.
@@ -197,7 +196,7 @@ healthy adults"*
 = Research experience
 
 #work_entry("Graduate Researcher", "Yale Institute for Network Science and Human Nature Lab, New Haven, CT", start_date: "2016", end_date: "2023", tasks: (
-  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure in 82 villages in rural Honduras],
+  [Designed and led large scale data collection and analysis efforts on individuals' perceptions of social network structure with over 10K persons in 82 villages in rural Honduras],
   [Developed sampling method for cognitive social structures research design],
   [Conducted fieldwork in rural Honduras to support data collection and analysis effort for thesis project],
   [Developed generalized difference-in-differences methodology to estimate the impact of large-scale political gatherings on the spread of COVID-19 in the USA],
@@ -312,11 +311,11 @@ Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochast
 
 = References
 
-+ Dr. Peter Bearman, Cole Professor of Social Science in the Department of Sociology, Columbia University
-  - psb17\@columbia.edu
-
 + Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
   - nicholas.christakis\@yale.edu
+
++ Dr. Peter Bearman, Cole Professor of Social Science in the Department of Sociology, Columbia University
+  - psb17\@columbia.edu
 
 + Dr. Emily Erikson, Professor of Sociology and (by courtesy) Management, Yale University
   - emily.erikson\@yale.edu

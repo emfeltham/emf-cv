@@ -39,9 +39,9 @@
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
 = Employment
 
-#work_entry("Data Science Institute Postdoctoral Fellow", [Columbia University], start_date: "Sept. 2024", end_date: "", tasks: ())
+#work_entry("Data Science Institute Postdoctoral Fellow", [Columbia University], start_date: "Sept. 2024", end_date: "", location: "New York, NY", tasks: ())
 
-#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024",
+#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024", location: "New Haven, CT"
 )
 
 = Education

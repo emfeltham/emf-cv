@@ -36,6 +36,11 @@
 
 #show: doc => template(name, contact_data, color, doc)
 
+// Add the "Last updated" line below the contact info
+#align(right)[
+  #text(size: 9pt, weight: "light")[Last updated: September 2025]
+]
+
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
 = Employment
 
@@ -164,14 +169,14 @@ healthy adults"*
 #work_entry("National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", [Research Grant (R-01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], end_date: "2022", tasks: (
   [Award: \$3,226,809 (over 4 years)],
   [PI: Dr. Nicholas Christakis],
-  [Role: Researcher],
+  [Role: Researcher (lead author of proposal, research design, and analysis plan)],
 )
 )
 
 #work_entry("Robert Wood Johnson Foundation", ["Assessing the Hazard of Elections During the COVID-19 Pandemic"], end_date: "2020", tasks: (
   [Award: \$350,000],
   [PI: Dr. Nicholas Christakis],
-  [Role: Researcher],
+  [Role: Researcher (lead author of proposal, research design, and analysis plan)],
 )
 )
 
@@ -266,6 +271,7 @@ healthy adults"*
 
 = Mentoring
 
+- Asli Yuksel (Psychology, Swarthmore College, 2026)
 - Karen Gao (Computer Science & Psychology, Yale College 2027)
 - Ashley Oaks (Statistics & Data Science, PhD)
 - Breanna Nguyen (Cognitive Science, Yale College 2025)
@@ -288,6 +294,7 @@ healthy adults"*
 = Skills
 
 == Languages
+
 Julia, R, MATLAB, Python, Spanish (basic), French (basic)
 
 == Selected coursework

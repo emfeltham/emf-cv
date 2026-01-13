@@ -129,7 +129,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 = Invited Talks
 
 *"Cognizing social networks"*
-- Santa Fe Institute, Spring 2026
+- Santa Fe Institute, April 2026
 - Organizational Behavior Area, Stanford Graduate School of Business, November 2025
 - Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
 - Department of Sociology, Yale University (Sussman Award Lecture), May 2025

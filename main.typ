@@ -38,7 +38,7 @@
 
 // Add the "Last updated" line below the contact info
 #align(right)[
-  #text(size: 9pt, weight: "light")[Last updated: September 2025]
+  #text(size: 9pt, weight: "light")[Last updated: January 2026]
 ]
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, social cognition, computational social science, causal inference, mathematical sociology, social theory, political sociology],
+  [Social networks, social cognition, computational social science, social theory, social psychology, causal inference],
 )
 
 = Publications
@@ -93,11 +93,11 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". (submission stage, available upon request)
 
+*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
+
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
 *Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep)
-
-*Eric Feltham*. "FormulaCompiler.jl: A Unified Typed Compilation Framework for Statistical Formulas" (manuscript in prep)
 
 *Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (research phase)
 
@@ -129,19 +129,17 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 = Invited Talks
 
 *"Cognizing social networks"*
+- Santa Fe Institute, Spring 2026
 - Organizational Behavior Area, Stanford Graduate School of Business, November 2025
 - Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
 - Department of Sociology, Yale University (Sussman Award Lecture), May 2025
-- Department of Sociology, University of Iowa (Social Networks Workshop), Iowa City, IA, November 2023
+- Department of Sociology, University of Iowa (Social Networks Workshop), November 2023
 
 *"Modeling the Effect of Identity on Polarization"*
 - Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
 
 *“Experiments on Observational Learning”*
 - Yale Institute for Network Science, August 2018
-
-*"Using Tools from Causal Inference to Reconstruct Simulated Social Data"*
-- DARPA Workshop, Alexandria, VA, 2018
 
 = Conference Presentations
 
@@ -333,5 +331,5 @@ Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochast
 + Dr. Laura Forastiere, Associate Professor of Biostatistics, Yale School of Public Health, Yale University
   - laura.forastiere\@yale.edu
 
-+ Dr. Ifat Levy, Associate Professor of Comparative Medicine, Neuroscience, and Psychology, Yale School of Medicine, Yale University
-  - ifat.levy\@yale.edu
++ Dr. Ifat Levy, Elizabeth Mears and House Jameson Professor of Comparative Medicine, Psychology, and Neuroscience, Yale School of Medicine, Yale University
+  - ifat.levy\@yale.edu  

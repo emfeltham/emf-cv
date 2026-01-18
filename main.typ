@@ -91,7 +91,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". (submission stage, available upon request)
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v1")
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 

@@ -97,7 +97,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
-*Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep)
+*Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep.)
 
 *Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (research phase)
 
@@ -109,9 +109,9 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras". (research phase)
 
-// *Eric Feltham*. "Identity and Polarization". (manuscript in prep.)
+Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (manuscript in prep.)
 
-Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (data collection phase)
+// *Eric Feltham*. "Identity and Polarization". (manuscript in prep.)
 
 = Book
 

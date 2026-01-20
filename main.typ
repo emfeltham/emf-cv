@@ -135,6 +135,9 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 - Department of Sociology, Yale University (Sussman Award Lecture), May 2025
 - Department of Sociology, University of Iowa (Social Networks Workshop), November 2023
 
+*"Expecting Homophily"*
+- Human Nature Lab, Yale University, January 2026
+
 *"Modeling the Effect of Identity on Polarization"*
 - Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
 

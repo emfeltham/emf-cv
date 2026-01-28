@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, social cognition, computational social science, social theory, social psychology, causal inference],
+  [Social networks, social cognition, culture and cognition, social theory, computational social science, causal inference],
 )
 
 = Publications
@@ -91,7 +91,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v1")
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
@@ -322,11 +322,11 @@ Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochast
 
 = References
 
-+ Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
-  - nicholas.christakis\@yale.edu
-
 + Dr. Peter Bearman, Cole Professor of Social Science in the Department of Sociology, Columbia University
   - psb17\@columbia.edu
+
++ Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University
+  - nicholas.christakis\@yale.edu
 
 + Dr. Emily Erikson, Professor of Sociology and (by courtesy) Management, Yale University
   - emily.erikson\@yale.edu

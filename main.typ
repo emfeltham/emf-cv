@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, social cognition, culture and cognition, social theory, computational social science, causal inference],
+  [Social networks, social cognition, computational social science, culture and cognition, social theory, causal inference],
 )
 
 = Publications
@@ -91,7 +91,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review at _Science_. Preprint: SocArXiv. #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
@@ -284,7 +284,7 @@ healthy adults"*
 - Kayla Morgan (Cognitive Science, Yale College 2024)
 - Benjamin Snyder (Economics, Yale College 2022)
 
-= Service
+= Professional service
 
 == Ad hoc reviews
 
@@ -305,7 +305,7 @@ Julia, R, MATLAB, Python, Spanish (basic), French (basic)
 
 Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochastic Processes, Computational Tools for Data Science, Research Design & Causal Inference, Social Network Analysis, Topics in Biosocial Science, The Microeconomics of Coordination and Conflict
 
-= Leadership & Service
+= Leadership & service
 
 #work_entry("Campaign Coordinator", "Students for a Just and Stable Future, Boston, MA", start_date: "2010", end_date: "2011", tasks: (
   [Represented the organization at public events],

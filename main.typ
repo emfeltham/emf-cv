@@ -38,7 +38,7 @@
 
 // Add the "Last updated" line below the contact info
 #align(right)[
-  #text(size: 9pt, weight: "light")[Last updated: January 2026]
+  #text(size: 9pt, weight: "light")[Last updated: March 2026]
 ]
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #grid(
   columns: (30fr, 6fr),
-  [Social networks, social cognition, computational social science, culture and cognition, social theory, causal inference],
+  [Social networks, social cognition, social theory, computational social science, experimental methods, causal inference],
 )
 
 = Publications
@@ -93,7 +93,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review at _Science_. Preprint: SocArXiv. #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
 
-*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
+*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
@@ -289,6 +289,7 @@ healthy adults"*
 == Ad hoc reviews
 
 - Proceedings of the National Academy of Sciences of the United States of America
+- Sociological Science
 - Risk Analysis
 - Policy Analysis
 - Group Processes & Intergroup Relations

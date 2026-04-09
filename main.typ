@@ -38,7 +38,7 @@
 
 // Add the "Last updated" line below the contact info
 #align(right)[
-  #text(size: 9pt, weight: "light")[Last updated: March 2026]
+  #text(size: 9pt, weight: "light")[Last updated: April 2026]
 ]
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
@@ -91,15 +91,15 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review at _Science_. Preprint: SocArXiv. #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. Preprint: SocArXiv. #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
 
-*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
+*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). Under review. #link("https://arxiv.org/abs/2601.07065")
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
 *Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep.)
 
-*Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (research phase)
+*Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (manuscript in prep.)
 
 *Eric Feltham*, Laura Forastiere, Johan Ugander, and Nicholas Christakis. "Off-Policy Evaluation with Cognitive Social Structures". (research phase)
 
@@ -148,11 +148,13 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 *"Cognizing social networks"*
 - #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
-- #link("https://www.asanet.org/annual-meeting/")[American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
+- #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
 - #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
 - Implementation and Dissemination Science Workshop, Copán, Honduras, June 2023
 
 *"Expecting Homophily"*
+- #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), New York City, August 2026
+- #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis--Sunbelt 2026], Daytona Beach, June 2026
 - #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], Columbia University, June 2025
 
 Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. *"Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in

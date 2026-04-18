@@ -279,6 +279,7 @@ healthy adults"*
 
 = Mentoring
 
+- Shriya Muthukumar (Computer Science & Economics, University of Chicago, 2029)
 - Asli Yuksel (Psychology, Swarthmore College, 2026)
 - Karen Gao (Computer Science & Psychology, Yale College 2027)
 - Ashley Oaks (Statistics & Data Science, PhD)

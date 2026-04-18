@@ -91,11 +91,11 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. Preprint: SocArXiv. #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
 
-*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). Under review. #link("https://arxiv.org/abs/2601.07065")
+*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
-*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line." (manuscript in prep.)
+*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line." (draft available upon request)
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 

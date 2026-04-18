@@ -95,6 +95,8 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). Under review. #link("https://arxiv.org/abs/2601.07065")
 
+*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line." (manuscript in prep.)
+
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
 
 *Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep.)

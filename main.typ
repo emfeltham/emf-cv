@@ -95,6 +95,8 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
+*Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly". (draft available upon request)
+
 *Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line." (draft available upon request)
 
 *Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
@@ -149,14 +151,15 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 = Conference Presentations
 
 *"Cognizing social networks"*
-- #link("https://www.ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
-- #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, August 2024
+- #link("https://ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
+- #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, QC, August 2024
 - #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
 - Implementation and Dissemination Science Workshop, Copán, Honduras, June 2023
 
 *"Expecting Homophily"*
 - #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), New York City, August 2026
-- #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis--Sunbelt 2026], Daytona Beach, June 2026
+- #link("https://ic2s2-2026.org")[International Conference on Computational Social Science], Burlington, VT, July 2026
+- #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis--Sunbelt 2026], Daytona Beach, FL, June 2026
 - #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], Columbia University, June 2025
 
 Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. *"Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in

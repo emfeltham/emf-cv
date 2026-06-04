@@ -160,6 +160,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 - #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), New York City, August 2026
 - #link("https://ic2s2-2026.org")[International Conference on Computational Social Science], Burlington, VT, July 2026
 - #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis--Sunbelt 2026], Daytona Beach, FL, June 2026
+- #link("https://program.netsci2026.com")[International Conference on Network Science--NetSci 2026], Boston, MA, June 2026
 - #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], Columbia University, June 2025
 
 Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. *"Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in

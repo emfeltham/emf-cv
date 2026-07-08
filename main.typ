@@ -38,7 +38,7 @@
 
 // Add the "Last updated" line below the contact info
 #align(right)[
-  #text(size: 9pt, weight: "light")[Last updated: April 2026]
+  #text(size: 9pt, weight: "light")[Last updated: July 2026]
 ]
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
@@ -95,15 +95,17 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
+*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line". (draft available upon request)
+
+*Eric Feltham*. "The Fall of American Racial Bias Broke Along the Geography of Economic Decline in 2016". (draft available upon request)
+
 *Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly". (draft available upon request)
 
-*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line." (draft available upon request)
-
-*Eric Feltham*. "The social and cultural context of social network cognition". (manuscript in prep.)
+*Eric Feltham*. "The Social and Cultural Context of Social Network Cognition". (manuscript in prep.)
 
 *Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data" (manuscript in prep.)
 
-*Eric Feltham* "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (manuscript in prep.)
+*Eric Feltham*. "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (manuscript in prep.)
 
 *Eric Feltham*, Laura Forastiere, Johan Ugander, and Nicholas Christakis. "Off-Policy Evaluation with Cognitive Social Structures". (research phase)
 
@@ -119,20 +121,20 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 
 = Book
 
-"Cognizing social networks" (working title). Manuscript in preparation.
+"Cognizing Social Networks" (working title). Manuscript in preparation.
 - Book proposal under review
 
 = Other writing
 
-"Social network cognition among isolated villagers reveals distinct patterns of bias" *Nature Human Behaviour Research Briefing* (June 2025). (Invited contribution by Nature Human Behaviour)
+"Social network cognition among isolated villagers reveals distinct patterns of bias". *Nature Human Behaviour Research Briefing* (June 2025). (Invited contribution by Nature Human Behaviour)
 
 *Eric Feltham* and Nicholas Christakis. (2023). "Rapid research with a pandemic bearing down: Studying the impact of mass gatherings on the course of COVID-19". *Springer Nature Communities*. (Invited contribution to "Behind the Paper" series for the Springer Nature Social Sciences online community.)
 
 *Eric Feltham* and Nicholas Christakis. (2020). "Voting In The 2020 Primaries Didn't Worsen The COVID-19 Pandemic". *FiveThirtyEight*.
 
-= Invited Talks
+= Invited talks
 
-*"Cognizing social networks"*
+*"Cognizing Social Networks"*
 - Santa Fe Institute, April 2026
 - Organizational Behavior Area, Stanford Graduate School of Business, November 2025
 - Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
@@ -145,12 +147,12 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (
 *"Modeling the Effect of Identity on Polarization"*
 - Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
 
-*“Experiments on Observational Learning”*
+*"Experiments on Observational Learning"*
 - Yale Institute for Network Science, August 2018
 
-= Conference Presentations
+= Conference presentations
 
-*"Cognizing social networks"*
+*"Cognizing Social Networks"*
 - #link("https://ic2s2-2025.org")[International Conference on Computational Social Science], Norrköping, Sweden, July 2025
 - #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), Montréal, QC, August 2024
 - #link("https://sn.ethz.ch/events/dualityat50.html")[Duality\@50: Making progress and looking forward], ETH Zürich, Ascona, Switzerland, April 2024
@@ -243,7 +245,7 @@ healthy adults"*
 )
 
 #work_entry("Undergraduate Honors Thesis", "University of Massachusetts Amherst Commonwealth Honors College, Amherst, MA", end_date: "2013", tasks: (
-  [Title: “Unconscious Attention? Inattentional Consciousness? Examining the Relationship Between Attention and Phenomenal Consciousness”],
+  [Title: "Unconscious Attention? Inattentional Consciousness? Examining the Relationship Between Attention and Phenomenal Consciousness"],
   [Committee: Drs. Joseph Levine and Louise Anthony]
 )
 )
@@ -285,13 +287,13 @@ healthy adults"*
 
 - Shriya Muthukumar (Computer Science & Economics, University of Chicago, 2029)
 - Asli Yuksel (Psychology, Swarthmore College, 2026)
-- Karen Gao (Computer Science & Psychology, Yale College 2027)
+- Karen Gao (Computer Science & Psychology, Yale College, 2027)
 - Ashley Oaks (Statistics & Data Science, PhD)
-- Breanna Nguyen (Cognitive Science, Yale College 2025)
-- Kaity Chandrika (Sociology, Yale College 2025)
-- Justice Harasha (Economics & Mathematics, Yale College 2024)
-- Kayla Morgan (Cognitive Science, Yale College 2024)
-- Benjamin Snyder (Economics, Yale College 2022)
+- Breanna Nguyen (Cognitive Science, Yale College, 2025)
+- Kaity Chandrika (Sociology, Yale College, 2025)
+- Justice Harasha (Economics & Mathematics, Yale College, 2024)
+- Kayla Morgan (Cognitive Science, Yale College, 2024)
+- Benjamin Snyder (Economics, Yale College, 2022)
 
 = Professional service
 
@@ -345,4 +347,4 @@ Theory of Statistics, Multivariate Statistical Analysis, Linear Models, Stochast
   - laura.forastiere\@yale.edu
 
 + Dr. Ifat Levy, Elizabeth Mears and House Jameson Professor of Comparative Medicine, Psychology, and Neuroscience, Yale School of Medicine, Yale University
-  - ifat.levy\@yale.edu  
+  - ifat.levy\@yale.edu

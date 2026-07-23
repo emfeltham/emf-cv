@@ -107,6 +107,8 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection". (manuscript in prep.)
 
+*Eric Feltham*. "Off the Party Menu: Beliefs and Within-Party Hostility, 1972–2024". (research phase)
+
 *Eric Feltham*, Laura Forastiere, Johan Ugander, and Nicholas Christakis. "Off-Policy Evaluation with Cognitive Social Structures". (research phase)
 
 *Eric Feltham*. "Sampling Cognitive Social Structures". (research phase)

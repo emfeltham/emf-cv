@@ -1,4 +1,4 @@
-#import "simplecv.typ": template, education_entry, work_entry, skill_entry 
+#import "simplecv.typ": template, education_entry, work_entry, skill_entry
 
 // Change the theme color of the cv.
 #let color = rgb("#00356b")
@@ -302,6 +302,7 @@ healthy adults"*
 == Ad hoc reviews
 
 - Proceedings of the National Academy of Sciences of the United States of America
+- PNAS Nexus
 - Sociological Science
 - Risk Analysis
 - Policy Analysis

@@ -99,7 +99,16 @@
 
 // Set name and contact data and format headings
 #let template(name, contact_data, color, doc) = {
-  set page(margin: (x: 0.75in, y: 0.75in))
+  set page(
+    margin: (x: 0.75in, y: 0.75in),
+    footer: context {
+      let n = counter(page).get().first()
+      if n > 1 {
+        set text(size: 9pt, weight: "light")
+        align(right)[#name — #n of #counter(page).final().first()]
+      }
+    },
+  )
   set text(11pt)
   set par(justify: true, leading: par_space)
   align(center)[

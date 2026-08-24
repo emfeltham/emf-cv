@@ -69,10 +69,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Research interests
 
-#grid(
-  columns: (30fr, 6fr),
-  [Social networks and network cognition; social perception and beliefs about others; groups and intergroup boundaries; computational social science; experimental methods and causal inference],
-)
+Social networks and network cognition; social perception and beliefs about others; groups and intergroup boundaries; computational social science; experimental methods and causal inference
 
 = Publications
 
@@ -109,8 +106,6 @@ Emily Erikson and *Eric Feltham*. "Historical Network Research". In _Oxford Hand
 
 *Eric Feltham*. "The Social and Cultural Context of Social Network Cognition".
 
-*Eric Feltham*. "Sampling Cognitive Social Structures".
-
 *Eric Feltham*, Laura Forastiere, Johan Ugander, and Nicholas Christakis. "Off-Policy Evaluation with Cognitive Social Structures".
 
 *Eric Feltham* and Nicholas Christakis. "The Networked Climate Game".
@@ -121,7 +116,9 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 *Eric Feltham*. "TSCSMethods.jl: Extended Matching for Generalized Difference-in-Differences with Time-Series Cross-Sectional Data".
 
-*Eric Feltham*. "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection".
+// *Eric Feltham*. "Sampling Cognitive Social Structures".
+
+// *Eric Feltham*. "Positive Predictive Bias: A Simple Nonparametric Alternative to c in Signal Detection".
 
 // *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras".
 
@@ -130,16 +127,12 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 = Grants
 
 #work_entry("National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", [Research Grant (R01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], end_date: "2022", tasks: (
-  [Award: \$3,226,809 (over 4 years)],
-  [PI: Dr. Nicholas Christakis],
-  [Role: Researcher (lead author of proposal, research design, and analysis plan)],
+  [Award: \$3,226,809 over 4 years. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
 )
 )
 
 #work_entry("Robert Wood Johnson Foundation", ["Assessing the Hazard of Elections During the COVID-19 Pandemic"], end_date: "2020", tasks: (
-  [Award: \$350,000],
-  [PI: Dr. Nicholas Christakis],
-  [Role: Researcher (lead author of proposal, research design, and analysis plan)],
+  [Award: \$350,000. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
 )
 )
 
@@ -147,28 +140,24 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 #work_entry(link("https://sociology.yale.edu/news/eric-martin-feltham-2024-winner-yale-sociology-departments-marvin-b-sussman-dissertation-prize")[Sussman Prize for best dissertation in the past two years], "Yale Department of Sociology, New Haven, CT", end_date: "2024", tasks: ())
 
-#work_entry("Commonwealth Honors College Scholar with Greatest Distinction", [University of Massachusetts Amherst, Amherst, MA], end_date: "2013", tasks: (
-  [Awarded based on thesis quality and GPA],
-)
-)
+#work_entry("Commonwealth Honors College Scholar with Greatest Distinction", [University of Massachusetts Amherst, Amherst, MA], end_date: "2013", tasks: ())
 
 = Invited talks
 
+#block(breakable: false)[
 *"Cognizing Social Networks"*
-- Santa Fe Institute, April 2026
-- Organizational Behavior Area, Stanford Graduate School of Business, November 2025
-- Department of Psychology, Harvard University (Cognition, Brain, Behavior Seminar), September 2025
-- Department of Sociology, Yale University (Sussman Award Lecture), May 2025
-- Department of Sociology, University of Iowa (Social Networks Workshop), November 2023
+- *Santa Fe Institute*, April 2026
+- *Stanford Graduate School of Business*, Organizational Behavior Area, November 2025
+- *Harvard University*, Department of Psychology (Cognition, Brain, Behavior Seminar), September 2025
+- *Yale University*, Department of Sociology (Sussman Award Lecture), May 2025
+]
 
-*"Expecting Homophily"*
-- Human Nature Lab, Yale University, January 2026
+== Other talks
 
-*"Modeling the Effect of Identity on Polarization"*
-- Center for Empirical Research on Stratification and Inequality, Yale University, January 2019
-
-*"Experiments on Observational Learning"*
-- Yale Institute for Network Science, August 2018
+- *Yale University*, Human Nature Lab --- "Expecting Homophily", January 2026
+- *University of Iowa*, Department of Sociology (Social Networks Workshop) --- "Cognizing Social Networks", November 2023
+- *Yale University*, Center for Empirical Research on Stratification and Inequality --- "Modeling the Effect of Identity on Polarization", January 2019
+- *Yale Institute for Network Science* --- "Experiments on Observational Learning", August 2018
 
 = Conference presentations
 
@@ -181,8 +170,8 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 *"Expecting Homophily"*
 - #link("https://www.asanet.org/annual-meeting/")[Annual Meeting of the American Sociological Association] (Sections on Social Psychology and Mathematical Sociology), New York City, August 2026
 - #link("https://ic2s2-2026.org")[International Conference on Computational Social Science], Burlington, VT, July 2026
-- #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis--Sunbelt 2026], Daytona Beach, FL, June 2026
-- #link("https://program.netsci2026.com")[International Conference on Network Science--NetSci 2026], Boston, MA, June 2026
+- #link("https://www.insna.org/events/sunbelt-2026---daytona-beach")[Annual Conference of the International Network for Social Network Analysis (Sunbelt 2026)], Daytona Beach, FL, June 2026
+- #link("https://program.netsci2026.com")[International Conference on Network Science (NetSci 2026)], Boston, MA, June 2026
 - #link("https://inas.sociology.columbia.edu")[Annual Conference of the International Network of Analytical Sociology], Columbia University, June 2025
 
 Megha Chawla, Philipp Homan, Charles Gordon, *Eric Feltham*, Daniela Schiller, Ilan Harpaz-Rotem, Ifat Levy. *"Cortical thickness and volume of the right posterior parietal cortex predict individual learning rate in
@@ -265,7 +254,7 @@ healthy adults"*
 )
 
 #work_entry("Graduate Researcher", "University of Chicago, Chicago, IL", end_date: "2018", tasks: (
-  [Part of a team on the grant "Social MIND: Social Machine Intelligence for Novel Discovery", with Drs. James Evans and Michael Franklin (University of Chicago) and Joshua Tenenbaum (MIT)],
+  [Part of a team on the grant "Social MIND: Social Machine Intelligence for Novel Discovery", with Drs. James Evans and Michael Franklin of the University of Chicago and Dr. Joshua Tenenbaum of MIT],
 )
 )
 

@@ -51,7 +51,7 @@
 
 = Education
 
-#education_entry("Sociology", "Yale University (with Distinction)",
+#education_entry("Sociology (with Distinction)", "Yale University",
 degree_title: "Ph.D.,", end_date: "May 2023",
 description: [
   Dissertation: "Cognizing Social Networks" \
@@ -133,12 +133,12 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 = Grants
 
-#work_entry("National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", [Research Grant (R01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], end_date: "2022", tasks: (
+#work_entry([Research Grant (R01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], "National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", end_date: "2022", tasks: (
   [Award: \$3,226,809 over 4 years. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
 )
 )
 
-#work_entry("Robert Wood Johnson Foundation", ["Assessing the Hazard of Elections During the COVID-19 Pandemic"], end_date: "2020", tasks: (
+#work_entry(["Assessing the Hazard of Elections During the COVID-19 Pandemic"], "Robert Wood Johnson Foundation", end_date: "2020", tasks: (
   [Award: \$350,000. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
 )
 )
@@ -291,7 +291,7 @@ healthy adults"*
 
 = References
 
-+ Dr. Peter Bearman, Jonathan R. Cole Professor of Social Science in the Department of Sociology, Columbia University (psb17\@columbia.edu)
++ Dr. Peter Bearman, Jonathan R. Cole Professor of Social Science, Columbia University (psb17\@columbia.edu)
 
 + Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University (nicholas.christakis\@yale.edu)
 

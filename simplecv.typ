@@ -14,7 +14,7 @@
       } else if start_date == none {
         end_date
       } else {
-        start_date + " - " + end_date
+        start_date + "–" + end_date
       }
   }
 
@@ -28,7 +28,8 @@
 
 // General entry that is split into a left and right half (for experience and education).
 #let cv_entry(left_content: none, right_content: none) = {
-    grid(
+  block(breakable: false)[
+    #grid(
     columns: (30fr, 9fr), // column 1 originally 11fr
     column-gutter: 1cm,
     {
@@ -39,7 +40,7 @@
       set align(right)
       right_content
     }
-  )
+  )]
 }
 
 // Entry for education.

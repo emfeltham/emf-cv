@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #[
 #set par(hanging-indent: 0em)
-Social networks and network cognition; social perception and beliefs about others; groups and intergroup boundaries; computational social science; experimental methods and causal inference
+Social network cognition: who people believe is tied to whom, what they expect of others, and what these representations mean for influence and informal organization. Related interests: social theory; intergroup boundaries; coordination and competition. Methods: computational social science, causal inference, and experiments.
 ]
 
 = Publications

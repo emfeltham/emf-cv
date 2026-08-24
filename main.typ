@@ -38,7 +38,7 @@
 
 // Add the "Last updated" line below the contact info
 #align(right)[
-  #text(size: 9pt, weight: "light")[Last updated: July 2026]
+  #text(size: 9pt, weight: "light")[Last updated: August 2026]
 ]
 
 // Starting from here, you can add as much content as you want. This represents the main content of the cv.
@@ -95,9 +95,9 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
-*Eric Feltham*. "Group Signal Degradation and Boundary Investment Across the Diploma Divide and the Color Line". (draft available upon request)
+*Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment". (draft available upon request)
 
-*Eric Feltham*. "The Fall of American Racial Bias Broke Along the Geography of Economic Decline in 2016". (draft available upon request)
+*Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline". (draft available upon request)
 
 *Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly". (draft available upon request)
 
@@ -115,7 +115,7 @@ Philipp Homan, Ifat Levy, *Eric Feltham*, Charles Gordon, Jingchu Hu, Jian Li, R
 
 *Eric Feltham* and Nicholas Christakis. "The Networked Climate Game". (data collection phase)
 
-*Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras". (research phase)
+// *Eric Feltham* and Nicholas Christakis. "Risk Attitudes and Network Structure in Honduras". (research phase)
 
 Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_". (manuscript in prep.)
 

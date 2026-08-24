@@ -71,7 +71,7 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 #[
 #set par(hanging-indent: 0em)
-Social network cognition: who people believe is tied to whom, what they expect of others, and what these representations mean for influence and informal organization. Related interests: social theory; intergroup boundaries; coordination and competition. Methods: computational social science, causal inference, and experiments.
+Social network cognition: how people map social structure, who they believe is tied to whom, what they expect of others, and what these representations mean for influence and informal organization. Related interests: social theory; intergroup boundaries; coordination and competition. Methods: computational social science, causal inference, and experiments.
 ]
 
 = Publications

@@ -1,10 +1,11 @@
 // Based on https://www.overleaf.com/latex/templates/autocv/scfvqfpxncwb and https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc
 
-#set list(indent: 1em)
 // Reduce space between paragraphs.
 #let par_space = 0.5em
 // Reduce space between headings and descriptions.
 #let sep_space = par_space + 0.2em
+// Indent for continuation lines of bibliography-style entries.
+#let hang = 1.2em
 
 // Format start and end dates.
 #let format_date(start_date: none, end_date: none) = {
@@ -28,6 +29,10 @@
 
 // General entry that is split into a left and right half (for experience and education).
 #let cv_entry(left_content: none, right_content: none) = {
+  // Entry descriptions use `\` linebreaks within one paragraph, so every line
+  // must start flush; cancel the document-wide hanging indent here.
+  set par(hanging-indent: 0em)
+
   block(breakable: false)[
     #grid(
     columns: (30fr, 9fr), // column 1 originally 11fr
@@ -87,18 +92,15 @@
   )
 }
 
-// Entry for skills
-#let skill_entry(category, skills) = {
-  [== #category]
-
-  let cell = rect.with(radius: 5pt, inset: (top: 4pt, bottom: 4pt, left: 5pt, right: 5pt))
-  let boxes = for skill in skills {(box(cell(skill)),)}
-
-  {boxes.join("  ")}
-}
-
 // Set name and contact data and format headings
 #let template(name, contact_data, color, doc) = {
+  // PDF metadata, so the file identifies itself when downloaded or archived.
+  // `date: none` omits the compile timestamp, keeping rebuilds reproducible.
+  set document(
+    title: name + " — Curriculum Vitae",
+    author: name,
+    date: none,
+  )
   set page(
     margin: (x: 0.75in, y: 0.75in),
     footer: context {
@@ -109,8 +111,25 @@
       }
     },
   )
-  set text(11pt)
-  set par(justify: true, leading: par_space)
+  // Pin the family rather than relying on Typst's default, which has changed
+  // between releases. Ragged right, and never hyphenate: justified text splits
+  // words inside paper titles.
+  set text(font: "Libertinus Serif", size: 11pt, hyphenate: false)
+  set par(justify: false, leading: par_space)
+
+  // Colour bare DOIs and preprint URLs, where blue is a useful affordance for a
+  // clickable identifier. Leave linked prose black: a run of blue words inside a
+  // sentence reads as noise, and only some venues have URLs, so a coloured venue
+  // list comes out ragged. A bodyless `link` gives a text body holding the URL;
+  // prose bodies give text, emph, or a sequence, none of which start with "http".
+  show link: it => {
+    if it.body.has("text") and it.body.text.starts-with("http") {
+      text(fill: color, it)
+    } else {
+      it
+    }
+  }
+
   align(center)[
     #smallcaps(text(size: 2.2em, fill: black)[#name]) \
 
@@ -119,31 +138,45 @@
         let elements = for el in contact_data {
           (link(el.link)[#{box(image(height: 0.7em, el.service + ".svg")) + " " + el.display}],)
         }
-        elements.join(" | ")
+        // The show rule above deliberately skips these (icon + label sequences),
+        // so colour the contact row here to keep it blue.
+        text(fill: color, elements.join(" | "))
       }
     }
   ]
 
+  // Hanging indent for bibliography-style entries, set after the centered
+  // header so the name and contact row are unaffected. Lists and enums hang
+  // already, so cancel it inside them.
+  set par(hanging-indent: hang)
+  // Tight lists space items by `leading`, making a wrapped item's second line
+  // indistinguishable from the next item. 0.7em is the most the 5-page budget allows.
+  set list(tight: false, spacing: 0.7em)
+  show list: set par(hanging-indent: 0em)
+  show enum: set par(hanging-indent: 0em)
+
   show heading.where(level: 1): i => {
     set align(left)
-    let title = smallcaps(i.body)
+    set par(hanging-indent: 0em)
+    set text(weight: "light", size: 1.1em, fill: color)
 
-    set block(above: 1em)
-      set text(weight: "light", size: 1.1em, fill: color)
-      stack(
-        dir: ttb,
-        spacing: 2mm,
-        title,
-        line(length: 100%, stroke: color + 2pt)
-    )
+    // `sticky` keeps a heading from being orphaned at the foot of a page;
+    // the custom show rule would otherwise discard Typst's default stickiness.
+    // Hairline rule: 2pt is a table-boundary weight, and 20 of them banded the page.
+    block(above: 1em, sticky: true, stack(
+      dir: ttb,
+      spacing: 2mm,
+      smallcaps(i.body),
+      line(length: 100%, stroke: color + 0.5pt),
+    ))
   }
 
   show heading.where(level: 2): i => {
     set align(left)
-    let title = smallcaps(i.body)
-    set block(above: 0.8em)
+    set par(hanging-indent: 0em)
     set text(weight: "light", size: 1.0em, fill: color)
-    title
+
+    block(above: 1.2em, below: 0.8em, sticky: true, smallcaps(i.body))
   }
 
   doc

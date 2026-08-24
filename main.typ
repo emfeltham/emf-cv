@@ -1,4 +1,4 @@
-#import "simplecv.typ": template, education_entry, work_entry, skill_entry
+#import "simplecv.typ": template, education_entry, work_entry
 
 // Change the theme color of the cv.
 #let color = rgb("#00356b")
@@ -46,7 +46,7 @@
 
 #work_entry("Data Science Institute Postdoctoral Fellow", [Columbia University], start_date: "Sept. 2024", end_date: "Present", location: "New York, NY", tasks: ())
 
-#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale University], start_date: "June 2023", end_date: "Aug. 2024", location: "New Haven, CT"
+#work_entry("Postdoctoral Associate", [Yale Institute for Network Science and Department of Sociology, Yale~University], start_date: "June 2023", end_date: "Aug. 2024", location: "New Haven, CT"
 )
 
 = Education
@@ -56,7 +56,7 @@ degree_title: "Ph.D.,", end_date: "May 2023",
 description: [
   Dissertation: "Cognizing Social Networks" \
   Committee: Drs. Nicholas Christakis (chair), Emily Erikson, Laura Forastiere, Ifat Levy \
-  Winner of the 2024 Marvin B. Sussman Dissertation Prize from Yale University
+  Winner of the 2024 Marvin B. Sussman Dissertation Prize from Yale~University
 ], location: "New Haven, CT")
 
 #education_entry("Statistics", "Yale University",
@@ -69,7 +69,10 @@ description: [_magna cum laude_, _Phi Beta Kappa_], location: "Amherst, MA")
 
 = Research interests
 
+#[
+#set par(hanging-indent: 0em)
 Social networks and network cognition; social perception and beliefs about others; groups and intergroup boundaries; computational social science; experimental methods and causal inference
+]
 
 = Publications
 
@@ -124,6 +127,10 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 // *Eric Feltham*. "Identity and Polarization".
 
+== Book project
+
+"Cognizing Social Networks" (working title). Manuscript in preparation; proposal under review.
+
 = Grants
 
 #work_entry("National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", [Research Grant (R01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], end_date: "2022", tasks: (
@@ -138,7 +145,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 = Honors and awards
 
-#work_entry(link("https://sociology.yale.edu/news/eric-martin-feltham-2024-winner-yale-sociology-departments-marvin-b-sussman-dissertation-prize")[Sussman Prize for best dissertation in the past two years], "Yale Department of Sociology, New Haven, CT", end_date: "2024", tasks: ())
+#work_entry("Sussman Prize for best dissertation in the past two years", "Yale Department of Sociology, New Haven, CT", end_date: "2024", tasks: ())
 
 #work_entry("Commonwealth Honors College Scholar with Greatest Distinction", [University of Massachusetts Amherst, Amherst, MA], end_date: "2013", tasks: ())
 
@@ -180,27 +187,23 @@ healthy adults"*
 
 = Software
 
-#link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl] (sole author)
+*#link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl]* (sole author)
 - Performs nonparametric generalized difference-in-differences estimation, with covariate matching
 
-#link("https://github.com/emfeltham/FormulaCompiler.jl")[FormulaCompiler.jl] (sole author)
+*#link("https://github.com/emfeltham/FormulaCompiler.jl")[FormulaCompiler.jl]* (sole author)
 - Provides a unified, typed compilation framework for statistical model formulas in Julia
 
-#link("https://github.com/emfeltham/Margins.jl")[Margins.jl] (sole author)
+*#link("https://github.com/emfeltham/Margins.jl")[Margins.jl]* (sole author)
 - Computes marginal effects for generalized linear models and mixed models
 
-#link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl] (sole author)
+*#link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl]* (sole author)
 - Implements a sampling procedure for "cognitive social structures" data collection
 
-// #link("https://github.com/emfeltham/Typst.jl")[Typst.jl] (sole author)
+// *#link("https://github.com/emfeltham/Typst.jl")[Typst.jl]* (sole author)
 // - Implements an interface from the Julia language to the mark-up language Typst for academic writing
 
-// #link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl] (contributor)
+// *#link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl]* (contributor)
 // - Contributed functions to process network data
-
-= Book project
-
-"Cognizing Social Networks" (working title). Manuscript in preparation; proposal under review.
 
 = Other writing
 
@@ -212,7 +215,10 @@ healthy adults"*
 
 = Teaching
 
+#[
+#set par(hanging-indent: 0em)
 *Teaching interests.* Organizational behavior, social networks, research design and causal inference, computational social science, social theory
+]
 
 *Teaching Fellow*, Yale College, Yale University (2018–2023):
 
@@ -264,8 +270,11 @@ healthy adults"*
 
 = Professional service
 
+#[
+#set par(hanging-indent: 0em)
 *Memberships.* American Sociological Association; International Network for Social Network Analysis \
 *Ad hoc reviews.* Proceedings of the National Academy of Sciences of the United States of America; PNAS Nexus; Sociological Science; Risk Analysis; Policy Analysis; Group Processes & Intergroup Relations; Rationality and Society; Yale Undergraduate Research Journal
+]
 
 = Skills
 

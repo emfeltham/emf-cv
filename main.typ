@@ -215,11 +215,6 @@ healthy adults"*
 
 = Teaching
 
-#[
-#set par(hanging-indent: 0em)
-*Teaching interests.* Organizational behavior, social networks, research design and causal inference, computational social science, social theory
-]
-
 *Teaching Fellow*, Yale College, Yale University (2018–2023):
 
 - SOCY 133a, Computers, Networks and Society (Fall 2018)

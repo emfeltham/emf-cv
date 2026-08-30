@@ -95,7 +95,7 @@ Emily Erikson and *Eric Feltham*. "Historical Network Research". In _Oxford Hand
 
 = Working papers
 
-*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v2")
+*Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v3")
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
@@ -286,7 +286,7 @@ healthy adults"*
 
 = References
 
-+ Dr. Peter Bearman, Jonathan R. Cole Professor of Social Science, Columbia University (psb17\@columbia.edu)
++ Dr. Peter Bearman, Jonathan R. Cole Professor of the Social Sciences, Columbia University (psb17\@columbia.edu)
 
 + Dr. Nicholas Christakis, Sterling Professor of Social and Natural Science, Yale University (nicholas.christakis\@yale.edu)
 

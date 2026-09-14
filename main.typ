@@ -99,6 +99,8 @@ Emily Erikson and *Eric Feltham*. "Historical Network Research". In _Oxford Hand
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
+*Eric Feltham*. "empirica-networks: online network experiments with Empirica". Draft: #link("https://emfeltham.github.io/working-papers/")
+
 *Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment". Draft: #link("https://emfeltham.github.io/working-papers/")
 
 *Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline". Draft: #link("https://emfeltham.github.io/working-papers/")

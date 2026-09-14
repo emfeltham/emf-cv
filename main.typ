@@ -99,11 +99,11 @@ Emily Erikson and *Eric Feltham*. "Historical Network Research". In _Oxford Hand
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
-*Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment". (draft available upon request)
+*Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment". Draft: #link("https://emfeltham.github.io/working-papers")
 
-*Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline". (draft available upon request)
+*Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline". Draft: #link("https://emfeltham.github.io/working-papers")
 
-*Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly". (draft available upon request)
+*Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly". Draft: #link("https://emfeltham.github.io/working-papers")
 
 = Research in progress
 
@@ -153,7 +153,7 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 
 #block(breakable: false)[
 *"Cognizing Social Networks"*
-- *Santa Fe Institute*, April 2026
+- *Santa Fe Institute*, April 2026. Recording: #link("https://emfeltham.github.io/talks")
 - *Stanford Graduate School of Business*, Organizational Behavior Area, November 2025
 - *Harvard University*, Department of Psychology (Cognition, Brain, Behavior Seminar), September 2025
 - *Yale University*, Department of Sociology (Sussman Award Lecture), May 2025

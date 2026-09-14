@@ -99,15 +99,15 @@ Unpublished drafts are available at #link("https://emfeltham.github.io/working-p
 
 *Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v3")
 
-*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
-
-*Eric Feltham*. "empirica-networks: online network experiments with Empirica".
-
 *Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment".
 
 *Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline".
 
 *Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly".
+
+*Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
+
+*Eric Feltham*. "empirica-networks: online network experiments with Empirica".
 
 = Research in progress
 

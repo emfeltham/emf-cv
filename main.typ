@@ -99,11 +99,13 @@ Unpublished drafts are available at #link("https://emfeltham.github.io/working-p
 
 *Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v3")
 
-*Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and Partisan Boundary Investment".
+*Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and the Politics of a Credential".
 
-*Eric Feltham*. "The Fall of White Americans' Implicit Racial Bias Split in 2016 Along the Geography of Manufacturing Decline".
+*Eric Feltham*. "The Decline in White Americans' Implicit Racial Bias Diverged Along the Geography of Manufacturing Decline".
 
 *Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly".
+
+*Eric Feltham*. "The Yes Rate Revisited: PPB as a Distribution-Free Complement to Youden's J".
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 
@@ -138,12 +140,12 @@ Dominik Duell, *Eric Feltham*, Nicholas Christakis. "Revolutions _in silico_".
 = Grants
 
 #work_entry([Research Grant (R01), "Characterizing Individuals' Cognitive Maps of their Village Social Networks"], "National Institutes of Health, The National Institute on Aging and the Office of Behavioral and Social Sciences Research", end_date: "2022", tasks: (
-  [Award: \$3,226,809 over 4 years. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
+  [Lead author of the proposal, research design, and analysis plan. Award: \$3,226,809 over 4 years. PI: Dr. Nicholas Christakis.],
 )
 )
 
 #work_entry(["Assessing the Hazard of Elections During the COVID-19 Pandemic"], "Robert Wood Johnson Foundation", end_date: "2020", tasks: (
-  [Award: \$350,000. PI: Dr. Nicholas Christakis. Role: lead author of proposal, research design, and analysis plan.],
+  [Lead author of the proposal, research design, and analysis plan. Award: \$350,000. PI: Dr. Nicholas Christakis.],
 )
 )
 
@@ -263,9 +265,9 @@ healthy adults"*
 )
 )
 
-#work_entry("Research Assistant", "Levy and Harpaz-Rotem Labs, Yale School of Medicine, New Haven, CT", start_date: "2014", end_date: "2016", tasks: ())
+#work_entry("Research Assistant (fMRI and fear conditioning)", "Levy and Harpaz-Rotem Labs, Yale School of Medicine, New Haven, CT", start_date: "2014", end_date: "2016", tasks: ())
 
-#work_entry("Research Assistant", "Schiller Affective Neuroscience Lab, Icahn School of Medicine at Mount Sinai, New York, NY", end_date: "2014", tasks: ())
+#work_entry("Research Assistant (human fear conditioning)", "Schiller Affective Neuroscience Lab, Icahn School of Medicine at Mount Sinai, New York, NY", end_date: "2014", tasks: ())
 
 = Professional service
 
@@ -298,4 +300,4 @@ healthy adults"*
 
 + Dr. Laura Forastiere, Associate Professor of Biostatistics, Yale School of Public Health, Yale University (laura.forastiere\@yale.edu)
 
-+ Dr. Ifat Levy, Elizabeth Mears and House Jameson Professor of Comparative Medicine, Psychology, and Neuroscience, Yale School of Medicine, Yale University (ifat.levy\@yale.edu)
++ Dr. Ifat Levy, Elizabeth Mears and House Jameson Professor of Comparative Medicine, with secondary appointments in Psychology and in Neuroscience, Yale School of Medicine, Yale University (ifat.levy\@yale.edu)

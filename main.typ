@@ -193,23 +193,17 @@ healthy adults"*
 
 = Software
 
-*#link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl]* (sole author)
-- Performs nonparametric generalized difference-in-differences estimation, with covariate matching
-
-*#link("https://github.com/emfeltham/FormulaCompiler.jl")[FormulaCompiler.jl]* (sole author)
+*#link("https://github.com/emfeltham/Margins.jl")[Margins.jl] and #link("https://github.com/emfeltham/FormulaCompiler.jl")[FormulaCompiler.jl]* (sole author)
+- Computes marginal effects for generalized linear models and mixed models
 - Provides a unified, typed compilation framework for statistical model formulas in Julia
 
-*#link("https://github.com/emfeltham/Margins.jl")[Margins.jl]* (sole author)
-- Computes marginal effects for generalized linear models and mixed models
+*#link("https://github.com/human-nature-lab/TSCSMethods.jl")[TSCSMethods.jl]* (sole author)
+- Performs nonparametric generalized difference-in-differences estimation, with covariate matching
 
 *#link("https://github.com/human-nature-lab/SamplingPerceivedNetworks.jl")[SamplingPerceivedNetworks.jl]* (sole author)
 - Implements a sampling procedure for "cognitive social structures" data collection
 
-// *#link("https://github.com/emfeltham/Typst.jl")[Typst.jl]* (sole author)
-// - Implements an interface from the Julia language to the mark-up language Typst for academic writing
-
-// *#link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl]* (contributor)
-// - Contributed functions to process network data
+Contributions to open-source packages: #link("https://github.com/JuliaGraphs/NetworkLayout.jl")[NetworkLayout.jl] and #link("https://github.com/JuliaGraphs/GraphDataFrameBridge.jl")[GraphDataFrameBridge.jl].
 
 = Other writing
 

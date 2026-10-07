@@ -105,7 +105,7 @@ Unpublished drafts are available at #link("https://emfeltham.github.io/working-p
 
 *Eric Feltham* and Nicholas Christakis. "Seeing Structure Similarly".
 
-*Eric Feltham*. "The Yes Rate Revisited: PPB as a Distribution-Free Complement to Youden's J".
+*Eric Feltham*. "The Yes Rate Revisited: PPB as a Distribution-Free Complement to Youden's J". Under review.
 
 *Eric Feltham*. "FormulaCompiler.jl and Margins.jl: Efficient Marginal Effects in Julia". Under review. arXiv preprint (2026). #link("https://arxiv.org/abs/2601.07065")
 

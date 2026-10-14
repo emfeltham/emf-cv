@@ -99,6 +99,8 @@ Unpublished drafts are available at #link("https://emfeltham.github.io/working-p
 
 *Eric Feltham* and Nicholas Christakis. "Cognitive Expectations of Homophily in Village Social Networks". Under review. SocArXiv preprint (2026). #link("https://osf.io/preprints/socarxiv/z4nyq_v3")
 
+*Eric Feltham*. "Network Cognition in Cultural Context".
+
 *Eric Feltham*. "Signal Degradation without Convergence: Scale Relevance and the Politics of a Credential".
 
 *Eric Feltham*. "The Decline in White Americans' Implicit Racial Bias Diverged Along the Geography of Manufacturing Decline".
@@ -112,8 +114,6 @@ Unpublished drafts are available at #link("https://emfeltham.github.io/working-p
 *Eric Feltham*. "empirica-networks: online network experiments with Empirica".
 
 = Research in progress
-
-*Eric Feltham*. "The Social and Cultural Context of Social Network Cognition".
 
 *Eric Feltham*, Laura Forastiere, Johan Ugander, and Nicholas Christakis. "Off-Policy Evaluation with Cognitive Social Structures".
 
